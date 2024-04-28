@@ -80,7 +80,7 @@ class ResultScreen extends StatelessWidget {
               Row(
                 children: [
                   Text(
-                    '1. ',
+                    '2. ',
                     style: AppTextStylesManager.fontMedium20LightPrimary,
                   ),
                   Text(
@@ -98,7 +98,7 @@ class ResultScreen extends StatelessWidget {
               Row(
                 children: [
                   Text(
-                    '1. ',
+                    '3. ',
                     style: AppTextStylesManager.fontMedium20LightPrimary,
                   ),
                   Text(

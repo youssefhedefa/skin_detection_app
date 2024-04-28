@@ -3,7 +3,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:skin_detection/core/routing/app_routing_manager.dart';
 import 'package:skin_detection/core/routing/routing_constance.dart';
 import 'package:skin_detection/core/theming/color_manager.dart';
-import 'package:skin_detection/test.dart';
 
 class SkinAppMain extends StatelessWidget {
 
